@@ -1,0 +1,15 @@
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.exe
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.deps.json
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.runtimeconfig.json
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.runtimeconfig.dev.json
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.dll
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\SendRegisterCodeSMS.pdb
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.csprojAssemblyReference.cache
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.AssemblyInfo.cs
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.dll
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.pdb
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.genruntimeconfig.cache
+C:\git-alt\tutorials\SendRegisterCodeSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\git-alt\tutorials\SendRegisterCodeSMS\obj\Debug\netcoreapp3.1\SendRegisterCodeSMS.csproj.CopyComplete

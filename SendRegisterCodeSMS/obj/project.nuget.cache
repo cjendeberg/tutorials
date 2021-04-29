@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "09xYzAh9R3lQYrKff+P8qA11HFEBnsc9LPUhUUEgAGb4syo5G8ZCi3uA5GwHZaJUlFYuOY4KqVw841EkWRiDDw==",
+  "success": true,
+  "projectFilePath": "C:\\git-alt\\tutorials\\SendRegisterCodeSMS\\SendRegisterCodeSMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempchjed\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

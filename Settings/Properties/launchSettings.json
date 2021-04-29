@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Settings": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\git-alt\\tutorials\\Settings"
+    }
+  }
+}

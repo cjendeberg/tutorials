@@ -1,0 +1,12 @@
+C:\git-alt\tutorials\ReadFile\bin\Debug\netcoreapp2.1\ReadFile.deps.json
+C:\git-alt\tutorials\ReadFile\bin\Debug\netcoreapp2.1\ReadFile.runtimeconfig.json
+C:\git-alt\tutorials\ReadFile\bin\Debug\netcoreapp2.1\ReadFile.runtimeconfig.dev.json
+C:\git-alt\tutorials\ReadFile\bin\Debug\netcoreapp2.1\ReadFile.dll
+C:\git-alt\tutorials\ReadFile\bin\Debug\netcoreapp2.1\ReadFile.pdb
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.csprojAssemblyReference.cache
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.AssemblyInfo.cs
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.dll
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.pdb
+C:\git-alt\tutorials\ReadFile\obj\Debug\netcoreapp2.1\ReadFile.genruntimeconfig.cache

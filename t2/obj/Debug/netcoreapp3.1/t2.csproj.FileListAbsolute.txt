@@ -1,0 +1,13 @@
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.exe
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.deps.json
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.runtimeconfig.json
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.runtimeconfig.dev.json
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.dll
+C:\git-alt\tutorials\t2\bin\Debug\netcoreapp3.1\t2.pdb
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.csprojAssemblyReference.cache
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.AssemblyInfo.cs
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.dll
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.pdb
+C:\git-alt\tutorials\t2\obj\Debug\netcoreapp3.1\t2.genruntimeconfig.cache

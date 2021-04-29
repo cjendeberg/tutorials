@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1uOolBcWj9MRh/cUp4mjLrOkyV9NugA2sx90k8kI15NvXyAel1xUL/8Ke1w20seAgKm0Lc7ln4LteHaYoOzOzw==",
+  "success": true,
+  "projectFilePath": "C:\\git-alt\\tutorials\\Autofac-t1\\Autofac-t1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempchjed\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

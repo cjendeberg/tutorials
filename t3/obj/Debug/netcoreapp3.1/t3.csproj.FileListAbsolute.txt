@@ -1,0 +1,16 @@
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.exe
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.deps.json
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.runtimeconfig.json
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.runtimeconfig.dev.json
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.dll
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\t3.pdb
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.csprojAssemblyReference.cache
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.AssemblyInfo.cs
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.dll
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.pdb
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.genruntimeconfig.cache
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\git-alt\tutorials\t3\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\git-alt\tutorials\t3\obj\Debug\netcoreapp3.1\t3.csproj.CopyComplete

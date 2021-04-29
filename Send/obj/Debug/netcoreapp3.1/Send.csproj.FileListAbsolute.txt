@@ -1,0 +1,16 @@
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\git-alt\tutorials\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\git-alt\tutorials\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

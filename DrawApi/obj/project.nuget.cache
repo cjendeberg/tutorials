@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yba/5/arMG+0ccUyclFZuUDFNlsR9nZKmHq/wOuhZzlC+twca+wIVJXPvCnYvzWG8zC2O91Nj+XEzpFVUv2JPQ==",
+  "success": true,
+  "projectFilePath": "C:\\git-alt\\tutorials\\DrawApi\\DrawApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempchjed\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

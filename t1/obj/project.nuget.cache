@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmSzrRCGR5JrPQPLHRcb+oqeEkGNPVpOi/bduTsyM8Z+dO9NF2nmYK+Xc6CT0hu+68Sjf4Z+NUZX/4p0qpZNcQ==",
+  "success": true,
+  "projectFilePath": "C:\\git-alt\\tutorials\\t1\\t1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempchjed\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

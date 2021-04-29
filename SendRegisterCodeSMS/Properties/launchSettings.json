@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SendRegisterCodeSMS": {
+      "commandName": "Project",
+      "commandLineArgs": "+46739859828 \"Mata in det här numret: 4711\""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.exe
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.deps.json
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.runtimeconfig.json
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.runtimeconfig.dev.json
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.dll
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\t6.pdb
+C:\git-alt\tutorials\t6\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.csprojAssemblyReference.cache
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.AssemblyInfo.cs
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.csproj.CopyComplete
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.dll
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.pdb
+C:\git-alt\tutorials\t6\obj\Debug\netcoreapp3.1\t6.genruntimeconfig.cache

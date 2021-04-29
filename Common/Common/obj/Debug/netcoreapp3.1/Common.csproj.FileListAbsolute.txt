@@ -1,0 +1,8 @@
+C:\git-alt\tutorials\Common\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\git-alt\tutorials\Common\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\git-alt\tutorials\Common\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\git-alt\tutorials\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\git-alt\tutorials\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\Common\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\git-alt\tutorials\Common\Common\obj\Debug\netcoreapp3.1\Common.pdb

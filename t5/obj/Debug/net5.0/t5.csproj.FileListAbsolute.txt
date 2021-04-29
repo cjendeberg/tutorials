@@ -1,0 +1,16 @@
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.exe
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.deps.json
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.runtimeconfig.json
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.runtimeconfig.dev.json
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.dll
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\ref\t5.dll
+C:\git-alt\tutorials\t5\bin\Debug\net5.0\t5.pdb
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.csprojAssemblyReference.cache
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.AssemblyInfoInputs.cache
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.AssemblyInfo.cs
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.csproj.CoreCompileInputs.cache
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.dll
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\ref\t5.dll
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.pdb
+C:\git-alt\tutorials\t5\obj\Debug\net5.0\t5.genruntimeconfig.cache

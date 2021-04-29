@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNlLCc4AcaP4/BT9HepRHuKyx6FHqDIFi5m/Np7yx9teBdzlj+5fwvanemZ4NSPsit+rSIQoq84YA6pKg30UIQ==",
+  "success": true,
+  "projectFilePath": "C:\\git-alt\\tutorials\\SignalRWebPack\\SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempchjed\\.nuget\\packages\\microsoft.typescript.msbuild\\4.1.2\\microsoft.typescript.msbuild.4.1.2.nupkg.sha512",
+    "C:\\Users\\tempchjed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

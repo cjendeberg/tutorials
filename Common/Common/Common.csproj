@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Common</AssemblyName>
+    <RootNamespace>Zero99Lotto.SRC.Common</RootNamespace>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.8.1" />
+    <PackageReference Include="Autofac.Configuration" Version="4.1.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.1" />
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="jsreport.AspNetCore" Version="2.0.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.NLogTarget" Version="2.15.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel.Https" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.1.2" />
+    <PackageReference Include="NLog.Targets.Seq" Version="1.1.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.7.1" />
+    <PackageReference Include="Polly" Version="6.1.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.0" />
+    <PackageReference Include="Sendgrid" Version="9.13.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+    <PackageReference Include="Twilio" Version="5.28.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Messages\Commands\PlayerProfile\" />
+  </ItemGroup>
+</Project>
